@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<gesture>
+  <Name>Snaps</Name>
+  <FudgeFactor>0.5000001</FudgeFactor>
+  <GestureType>0</GestureType>
+  <pose name="Pose 1" xml:lang="en">
+    <TrackXAxis>true</TrackXAxis>
+    <TrackYAxis>true</TrackYAxis>
+    <TrackZAxis>false</TrackZAxis>
+    <DurationMax>8000000</DurationMax>
+    <DurationMin>0</DurationMin>
+    <TrackHead>false</TrackHead>
+    <TrackHipCenter>false</TrackHipCenter>
+    <TrackLeftAnkle>false</TrackLeftAnkle>
+    <TrackLeftElbow>false</TrackLeftElbow>
+    <TrackLeftFoot>false</TrackLeftFoot>
+    <TrackLeftHand>true</TrackLeftHand>
+    <TrackLeftHip>false</TrackLeftHip>
+    <TrackLeftKnee>false</TrackLeftKnee>
+    <TrackLeftShoulder>false</TrackLeftShoulder>
+    <TrackLeftWrist>false</TrackLeftWrist>
+    <TrackRightAnkle>false</TrackRightAnkle>
+    <TrackRightElbow>false</TrackRightElbow>
+    <TrackRightFoot>false</TrackRightFoot>
+    <TrackRightHand>true</TrackRightHand>
+    <TrackRightHip>false</TrackRightHip>
+    <TrackRightKnee>false</TrackRightKnee>
+    <TrackRightShoulder>false</TrackRightShoulder>
+    <TrackRightWrist>false</TrackRightWrist>
+    <TrackShoulderCenter>false</TrackShoulderCenter>
+    <TrackSpine>false</TrackSpine>
+    <data point="-0.05491833" />
+    <data point="-0.2378671" />
+    <data point="2.82272" />
+    <data point="-0.03692008" />
+    <data point="-0.184362" />
+    <data point="2.884659" />
+    <data point="-0.05012762" />
+    <data point="0.1681224" />
+    <data point="2.929893" />
+    <data point="-0.08197678" />
+    <data point="0.3922517" />
+    <data point="2.931365" />
+    <data point="-0.2476403" />
+    <data point="0.05284403" />
+    <data point="2.9821" />
+    <data point="-0.3161171" />
+    <data point="-0.2359889" />
+    <data point="3.035769" />
+    <data point="-0.3390946" />
+    <data point="-0.4658057" />
+    <data point="2.998235" />
+    <data point="-0.349004" />
+    <data point="-0.5390718" />
+    <data point="2.965789" />
+    <data point="0.1123178" />
+    <data point="0.05071634" />
+    <data point="2.844782" />
+    <data point="0.2704421" />
+    <data point="0.003539579" />
+    <data point="2.653129" />
+    <data point="0.1671208" />
+    <data point="0.2719934" />
+    <data point="2.673589" />
+    <data point="0.1958636" />
+    <data point="0.3361405" />
+    <data point="2.670731" />
+    <data point="-0.1380139" />
+    <data point="-0.3250594" />
+    <data point="2.822159" />
+    <data point="-0.1405947" />
+    <data point="-0.7481307" />
+    <data point="2.787623" />
+    <data point="-0.1540101" />
+    <data point="-1.088794" />
+    <data point="2.78646" />
+    <data point="-0.1878413" />
+    <data point="-1.125201" />
+    <data point="2.688525" />
+    <data point="0.02683183" />
+    <data point="-0.3123375" />
+    <data point="2.777701" />
+    <data point="0.08698905" />
+    <data point="-0.7380552" />
+    <data point="2.767797" />
+    <data point="0.1107748" />
+    <data point="-1.089346" />
+    <data point="2.777714" />
+    <data point="0.07587387" />
+    <data point="-1.14798" />
+    <data point="2.724551" />
+  </pose>
+  <pose name="Pose 2" xml:lang="en">
+    <TrackXAxis>true</TrackXAxis>
+    <TrackYAxis>true</TrackYAxis>
+    <TrackZAxis>false</TrackZAxis>
+    <DurationMax>8000000</DurationMax>
+    <DurationMin>0</DurationMin>
+    <TrackHead>false</TrackHead>
+    <TrackHipCenter>false</TrackHipCenter>
+    <TrackLeftAnkle>false</TrackLeftAnkle>
+    <TrackLeftElbow>false</TrackLeftElbow>
+    <TrackLeftFoot>false</TrackLeftFoot>
+    <TrackLeftHand>true</TrackLeftHand>
+    <TrackLeftHip>false</TrackLeftHip>
+    <TrackLeftKnee>false</TrackLeftKnee>
+    <TrackLeftShoulder>false</TrackLeftShoulder>
+    <TrackLeftWrist>false</TrackLeftWrist>
+    <TrackRightAnkle>false</TrackRightAnkle>
+    <TrackRightElbow>false</TrackRightElbow>
+    <TrackRightFoot>false</TrackRightFoot>
+    <TrackRightHand>true</TrackRightHand>
+    <TrackRightHip>false</TrackRightHip>
+    <TrackRightKnee>false</TrackRightKnee>
+    <TrackRightShoulder>false</TrackRightShoulder>
+    <TrackRightWrist>false</TrackRightWrist>
+    <TrackShoulderCenter>false</TrackShoulderCenter>
+    <TrackSpine>false</TrackSpine>
+    <data point="-0.04207695" />
+    <data point="-0.2394488" />
+    <data point="2.808505" />
+    <data point="-0.05039258" />
+    <data point="-0.1875978" />
+    <data point="2.873723" />
+    <data point="-0.0536288" />
+    <data point="0.1667889" />
+    <data point="2.922784" />
+    <data point="-0.08673101" />
+    <data point="0.3846714" />
+    <data point="2.919512" />
+    <data point="-0.2397345" />
+    <data point="0.04747405" />
+    <data point="2.879689" />
+    <data point="-0.3804084" />
+    <data point="0.063256" />
+    <data point="2.661802" />
+    <data point="-0.2856573" />
+    <data point="0.2520264" />
+    <data point="2.721083" />
+    <data point="-0.2759556" />
+    <data point="0.3251872" />
+    <data point="2.745492" />
+    <data point="0.1373846" />
+    <data point="0.0578962" />
+    <data point="2.933342" />
+    <data point="0.2559582" />
+    <data point="-0.2233022" />
+    <data point="2.966063" />
+    <data point="0.2838758" />
+    <data point="-0.4454748" />
+    <data point="2.900935" />
+    <data point="0.2826792" />
+    <data point="-0.5223832" />
+    <data point="2.850918" />
+    <data point="-0.1255197" />
+    <data point="-0.3237745" />
+    <data point="2.773606" />
+    <data point="-0.1385115" />
+    <data point="-0.7383719" />
+    <data point="2.764577" />
+    <data point="-0.1559406" />
+    <data point="-1.087942" />
+    <data point="2.777124" />
+    <data point="-0.1419718" />
+    <data point="-1.123071" />
+    <data point="2.674337" />
+    <data point="0.04603739" />
+    <data point="-0.3169504" />
+    <data point="2.790212" />
+    <data point="0.08688931" />
+    <data point="-0.7512943" />
+    <data point="2.767746" />
+    <data point="0.1108617" />
+    <data point="-1.088924" />
+    <data point="2.777928" />
+    <data point="0.1274441" />
+    <data point="-1.123786" />
+    <data point="2.671935" />
+  </pose>
+</gesture>

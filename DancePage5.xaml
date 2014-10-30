@@ -1,0 +1,29 @@
+﻿<Page x:Class="MuseLabExhibitApplication.DancePage5"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="1000" d:DesignWidth="1000"
+	Title="DancePage5" Loaded="Page_Loaded">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Name="DancePage5ActionTitle" Grid.Column="0" Grid.ColumnSpan="3" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Top" Content="CONGRATULATIONS!" Foreground="#FF00A1AD" FontFamily="/MuseLabExhibitApplication;component/Resources/Fonts/#Klinic Slab Light" FontSize="30" Margin="0,20,0,20"/>
+        <Image Name="KinectVideoOutput" Width="480" Height="360" Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,0,40,0"/>
+        <TextBlock Name="DancePage5ResetInstructions1" Width="500" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="To reset the application, do the reset gesture." VerticalAlignment="Center" FontFamily="/MuseLabExhibitApplication;component/Resources/Fonts/#Klinic Slab Bold" FontSize="24" Foreground="Gray"/>
+        <TextBlock Name="DancePage5ResetInstructions2" Width="500" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Center" TextWrapping="Wrap" Text="(Cross your arms in front of your chest.)" VerticalAlignment="Center" Foreground="Gray" Margin="0,50,0,0" FontFamily="/MuseLabExhibitApplication;component/Resources/Fonts/#Klinic Slab Light" FontSize="16"></TextBlock>
+     </Grid>
+</Page>
